@@ -731,9 +731,9 @@ button:not(:disabled),
   font-family: "Baloo Thambi 2";
   font-weight: 700;
   font-display: swap;
-  src: url(/test/fonts/BalooThambi2-Bold.eot);
+  src: url(../fonts/BalooThambi2-Bold.eot);
   /* IE 9 - 11 */
-  src: url(/test/fonts/BalooThambi2-Bold.eot?#iefix) format("embedded-opentype"), url(/test/fonts/BalooThambi2-Bold.woff2) format("woff2"), url(/test/fonts/BalooThambi2-Bold.woff) format("woff"), url(/test/fonts/BalooThambi2-Bold.ttf) format("truetype");
+  src: url(../fonts/BalooThambi2-Bold.eot?#iefix) format("embedded-opentype"), url(../fonts/BalooThambi2-Bold.woff2) format("woff2"), url(../fonts/BalooThambi2-Bold.woff) format("woff"), url(../fonts/BalooThambi2-Bold.ttf) format("truetype");
 }
 /*
  * Example for loading multiple fonts at once
